@@ -1,7 +1,4 @@
  /* ****************************************************** Assignment 3 ***************************************************************'**
-*************************************1 point for each correct answer. Maximum of 14 points *******************************************************
-*************************************Please submit the sql file. The file name should be Taha-Yassine_ENNABILI Assign3.sql ****************************
-You will be using the classismodels database. 
 */
 # 1. Increase the creditLimit for customers by 20% if their current credit limit is greater than 50000 in the table customers. 
 update customers set creditlimit = creditlimit + (0.2*creditlimit) where creditlimit >50000 ;
