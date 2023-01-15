@@ -1,7 +1,4 @@
 /* ****************************************************** Assignment 2 ***************************************************************'**
-*************************************1 point for each correct answer. Maximum of 10 points *******************************************************
-*************************************Please submit the sql file. The file name should be Taha-Yassine_ENNABILI_a2.sql ****************************
-You will be using the bookinfo database. 
 */
 
 #1. Create a copy of the table author as author_cp
