@@ -1,7 +1,5 @@
 /*
 ****************************************************** Assignment 1 ***************************************************************'**
-*************************************1 point for each correct answer. Maximum of 12 points *******************************************************
-*************************************Please submit the sql file. The file name should be Taha-yassine_ENNABILI.sql****************************
 */
 #1. Write SQL statement to display the version of your currently installed MySQL Database Server
 SELECT version();
